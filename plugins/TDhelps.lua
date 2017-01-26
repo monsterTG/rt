@@ -126,7 +126,7 @@ local telediamond = [[
 ➰شما میتوانید از '/' یا '!' یا '#' برای اجرای دستورات استفاده کنید.
 ➖➖➖➖➖➖➖
 ➰ ʝօìղ մʂ ìժ çհ :
-➰ @antispamandhack
+➰ @taha_6040
 ➖➖➖➖➖➖➖
 ]]
 local telediamond2 = [[
@@ -230,7 +230,7 @@ local telediamond2 = [[
 ✔️》بازکردن آهنگ
 ➖➖➖➖➖➖➖
 ➰ ʝօìղ մʂ ìժ çհ :
-➰ @antispamandhack
+➰ @Taha_6040
 ➖➖➖➖➖➖➖
 ]]
 local telediamond3 = [[
@@ -315,7 +315,7 @@ local telediamond3 = [[
 ➰بجای کلمه یا متن موارد دلخواه خود را بنویسید.
 ➖➖➖➖➖➖➖
 ➰ ʝօìղ մʂ ìժ çհ :
-➰ @antispamandhack
+➰ @Taha_6040
 ➖➖➖➖➖➖➖
 ]]
 local telediamond4 = [[
@@ -527,8 +527,6 @@ local telediamond6 = [[
 مثلا وقتی لینک قفل باشد درصورتی که کاربر لینک ارسال کند هم لینک و هم کاربر در صورت قفل بودن سخت گیری حذف خواهند شد.
 ]]
 local telediamond7 = [[
-̴D̴̴i̴̴a̴̴m̴̴o̴̴n̴̴d̴ ̴C̴̴o̴̴m̴̴m̴̴a̴̴n̴̴d̴̴s̴ :
-
 🎗شما میتوانید با این دستورات ربات را در گروه خود روشن و خاموش کنید.
 💢#bot off
 💢#bot on
@@ -553,7 +551,7 @@ local telediamond7 = [[
 🎗》#modhelp
 
 Join us:
-✔️  @antispamandhack
+✔️  @taha_6040
 ]]
     if matches[1] == 'راهنمای مدیریتی' and is_momod(msg) then
         return telediamond  
